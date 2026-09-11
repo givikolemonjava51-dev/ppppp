@@ -1,9 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://padelcoach.ge/</loc>
-    <lastmod>2026-09-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://padelcoach.ge/"/>
+    <xhtml:link rel="alternate" hreflang="ka" href="https://padelcoach.ge/ka"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://padelcoach.ge/"/>
+    <lastmod>2026-09-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://padelcoach.ge/services</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://padelcoach.ge/services"/>
+    <xhtml:link rel="alternate" hreflang="ka" href="https://padelcoach.ge/ka/services"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://padelcoach.ge/services"/>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://padelcoach.ge/pricing</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://padelcoach.ge/pricing"/>
+    <xhtml:link rel="alternate" hreflang="ka" href="https://padelcoach.ge/ka/pricing"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://padelcoach.ge/pricing"/>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://padelcoach.ge/about</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://padelcoach.ge/about"/>
+    <xhtml:link rel="alternate" hreflang="ka" href="https://padelcoach.ge/ka/about"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://padelcoach.ge/about"/>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://padelcoach.ge/ka</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://padelcoach.ge/"/>
+    <xhtml:link rel="alternate" hreflang="ka" href="https://padelcoach.ge/ka"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://padelcoach.ge/"/>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://padelcoach.ge/ka/services</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://padelcoach.ge/services"/>
+    <xhtml:link rel="alternate" hreflang="ka" href="https://padelcoach.ge/ka/services"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://padelcoach.ge/services"/>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://padelcoach.ge/ka/pricing</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://padelcoach.ge/pricing"/>
+    <xhtml:link rel="alternate" hreflang="ka" href="https://padelcoach.ge/ka/pricing"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://padelcoach.ge/pricing"/>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://padelcoach.ge/ka/about</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://padelcoach.ge/about"/>
+    <xhtml:link rel="alternate" hreflang="ka" href="https://padelcoach.ge/ka/about"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://padelcoach.ge/about"/>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
